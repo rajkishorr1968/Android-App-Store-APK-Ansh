@@ -1,0 +1,6 @@
+{
+  "name": "App Store",
+  "description": "iOS-style App Store experience on Android featuring Today stories, top games and apps, Arcade, authentic GET animations, and quick app launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
